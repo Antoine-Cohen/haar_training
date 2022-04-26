@@ -1,0 +1,812 @@
+plate_rois\100.jpg 1 184 75 169 37
+plate_rois\1000.jpg 1 147 94 195 50
+plate_rois\1002.jpg 1 162 95 187 42
+plate_rois\1003.jpg 1 160 91 190 45
+plate_rois\1005.jpg 1 142 83 185 46
+plate_rois\1006.jpg 1 130 80 180 46
+plate_rois\1008.jpg 1 130 76 173 49
+plate_rois\101 (2).jpg 1 110 65 107 23
+plate_rois\101.jpg 1 81 54 93 19
+plate_rois\1010.jpg 1 154 77 165 53
+plate_rois\1014.jpg 1 147 87 164 39
+plate_rois\1018.jpg 1 410 331 257 57
+plate_rois\1023.jpg 1 160 84 159 35
+plate_rois\1024.jpg 1 308 309 205 46
+plate_rois\1028.jpg 1 334 261 187 49
+plate_rois\103.jpg 1 97 56 107 22
+plate_rois\1031.jpg 1 300 234 165 34
+plate_rois\1034.jpg 1 138 81 167 34
+plate_rois\1038.jpg 1 140 86 159 32
+plate_rois\104.jpg 1 176 87 174 34
+plate_rois\1043.jpg 1 140 90 160 30
+plate_rois\1050.jpg 1 148 81 179 35
+plate_rois\1054.jpg 1 152 93 189 44
+plate_rois\1058.jpg 1 156 104 206 41
+plate_rois\106 (2).jpg 1 164 88 177 38
+plate_rois\106.jpg 1 72 43 104 23
+plate_rois\1060.jpg 1 188 108 210 46
+plate_rois\1063.jpg 1 181 106 212 47
+plate_rois\1071.jpg 1 199 104 208 43
+plate_rois\1074.jpg 1 180 103 204 43
+plate_rois\1077.jpg 1 169 95 188 43
+plate_rois\1080.jpg 1 147 102 185 38
+plate_rois\1084.jpg 1 124 78 168 39
+plate_rois\1086.jpg 1 123 77 159 36
+plate_rois\1088.jpg 1 112 85 145 33
+plate_rois\109 (2).jpg 1 106 58 102 22
+plate_rois\109.jpg 1 108 138 252 51
+plate_rois\1090.jpg 1 114 75 138 30
+plate_rois\110.jpg 1 57 88 153 31
+plate_rois\1101.jpg 1 108 57 121 28
+plate_rois\1103.jpg 1 113 66 130 31
+plate_rois\1109.jpg 1 111 65 126 29
+plate_rois\111.jpg 1 96 120 246 49
+plate_rois\1117.jpg 1 197 257 202 46
+plate_rois\112.jpg 1 106 65 103 24
+plate_rois\1120.jpg 1 211 253 169 38
+plate_rois\1125.jpg 1 101 55 111 26
+plate_rois\1126.jpg 1 167 198 140 31
+plate_rois\1129.jpg 1 109 65 114 26
+plate_rois\113.jpg 1 194 90 195 39
+plate_rois\1130.jpg 1 412 467 307 64
+plate_rois\1131.jpg 1 121 57 118 25
+plate_rois\1133.jpg 1 378 329 251 66
+plate_rois\1135.jpg 1 265 267 209 54
+plate_rois\1137.jpg 1 197 265 176 38
+plate_rois\1140.jpg 1 169 224 156 35
+plate_rois\1143.jpg 1 161 197 138 30
+plate_rois\1147.jpg 1 154 177 122 26
+plate_rois\1148.jpg 1 153 71 135 27
+plate_rois\1150.jpg 1 138 180 115 27
+plate_rois\1152.jpg 1 148 69 130 29
+plate_rois\1153.jpg 1 140 149 100 24
+plate_rois\1154.jpg 1 142 70 141 29
+plate_rois\116.jpg 1 221 120 126 33
+plate_rois\1160.jpg 1 132 74 145 26
+plate_rois\1162.jpg 1 144 133 89 24
+plate_rois\1165.jpg 1 130 74 145 29
+plate_rois\1168.jpg 1 128 71 149 33
+plate_rois\117 (2).jpg 1 221 101 219 52
+plate_rois\117.jpg 1 22 73 215 66
+plate_rois\1172.jpg 1 131 68 145 35
+plate_rois\1175.jpg 1 147 78 143 31
+plate_rois\1179.jpg 1 143 73 139 32
+plate_rois\1184.jpg 1 105 65 125 29
+plate_rois\1187.jpg 1 110 59 120 27
+plate_rois\1189.jpg 1 109 57 108 25
+plate_rois\119.jpg 1 260 127 249 55
+plate_rois\12.jpg 1 354 129 262 55
+plate_rois\120.jpg 1 77 138 199 41
+plate_rois\1209.jpg 1 83 52 99 21
+plate_rois\1211.jpg 1 106 94 143 31
+plate_rois\1214.jpg 1 116 127 176 33
+plate_rois\1217.jpg 1 128 169 244 51
+plate_rois\1218.jpg 1 102 73 115 28
+plate_rois\1219.jpg 1 136 88 178 36
+plate_rois\122.jpg 1 103 59 99 23
+plate_rois\1220.jpg 1 229 425 573 115
+plate_rois\1222.jpg 1 113 76 181 39
+plate_rois\1223.jpg 1 200 485 640 131
+plate_rois\1224.jpg 1 112 70 177 42
+plate_rois\1225.jpg 1 219 533 689 121
+plate_rois\123 (2).jpg 1 229 137 136 36
+plate_rois\123.jpg 1 32 52 147 32
+plate_rois\1234.jpg 1 267 492 662 139
+plate_rois\1237.jpg 1 209 454 602 124
+plate_rois\125.jpg 1 112 66 104 21
+plate_rois\1255.jpg 1 62 594 774 136
+plate_rois\1256.jpg 1 55 579 736 136
+plate_rois\126 (2).jpg 1 233 184 130 28
+plate_rois\126.jpg 1 40 94 175 35
+plate_rois\1260.jpg 1 214 547 682 146
+plate_rois\1263.jpg 1 220 449 602 113
+plate_rois\1265.jpg 1 133 449 571 118
+plate_rois\127.jpg 1 265 167 321 73
+plate_rois\1273.jpg 1 117 132 301 62
+plate_rois\1275.jpg 1 145 139 300 65
+plate_rois\129.jpg 1 304 404 638 130
+plate_rois\1290.jpg 1 150 93 273 57
+plate_rois\1294.jpg 1 231 158 291 70
+plate_rois\1295.jpg 1 213 114 211 44
+plate_rois\1298.jpg 1 222 138 280 59
+plate_rois\1299.jpg 1 203 110 197 36
+plate_rois\130.jpg 1 219 156 133 29
+plate_rois\1300.jpg 1 211 135 268 56
+plate_rois\1302.jpg 1 207 100 180 35
+plate_rois\1303.jpg 1 195 130 248 54
+plate_rois\1304.jpg 1 145 94 171 35
+plate_rois\1306.jpg 1 164 111 227 47
+plate_rois\1314.jpg 1 154 69 130 26
+plate_rois\1316.jpg 1 347 324 304 60
+plate_rois\1330.jpg 1 166 127 227 47
+plate_rois\1334.jpg 1 192 131 247 54
+plate_rois\1338.jpg 1 203 169 268 61
+plate_rois\1341.jpg 1 212 142 304 65
+plate_rois\1348.jpg 1 151 82 163 34
+plate_rois\1349.jpg 1 85 75 117 24
+plate_rois\1350.jpg 1 29 18 135 25
+plate_rois\1354.jpg 1 85 130 161 33
+plate_rois\1357.jpg 1 109 130 174 37
+plate_rois\136.jpg 1 234 147 128 28
+plate_rois\1360.jpg 1 197 133 179 35
+plate_rois\1361.jpg 1 116 149 190 39
+plate_rois\1365.jpg 1 144 156 210 44
+plate_rois\1366.jpg 1 163 136 183 36
+plate_rois\1368.jpg 1 100 70 118 26
+plate_rois\1369.jpg 1 221 201 241 50
+plate_rois\137.jpg 1 188 261 410 82
+plate_rois\1370.jpg 1 205 137 195 39
+plate_rois\1376.jpg 1 45 94 132 28
+plate_rois\1398.jpg 1 252 242 443 102
+plate_rois\140 (2).jpg 1 121 73 114 24
+plate_rois\140.jpg 1 227 233 355 66
+plate_rois\1403.jpg 1 80 417 762 164
+plate_rois\1404.jpg 1 134 171 286 60
+plate_rois\1417.jpg 1 143 94 84 22
+plate_rois\1427.jpg 1 130 79 78 21
+plate_rois\1434.jpg 1 301 470 553 110
+plate_rois\1436.jpg 1 223 421 499 98
+plate_rois\1438.jpg 1 281 408 466 98
+plate_rois\1445.jpg 1 223 200 92 26
+plate_rois\145.jpg 1 126 148 196 43
+plate_rois\146 (2).jpg 1 113 66 120 23
+plate_rois\146.jpg 1 196 186 305 64
+plate_rois\1470.jpg 1 184 325 428 84
+plate_rois\1473.jpg 1 316 321 424 84
+plate_rois\1475.jpg 1 207 237 293 60
+plate_rois\1477.jpg 1 359 310 221 52
+plate_rois\1480.jpg 1 306 264 203 44
+plate_rois\1482.jpg 1 310 338 206 46
+plate_rois\1484.jpg 1 316 289 213 44
+plate_rois\1486.jpg 1 204 212 443 96
+plate_rois\1487.jpg 1 185 217 436 84
+plate_rois\1488.jpg 1 133 235 426 79
+plate_rois\1489.jpg 1 138 234 413 79
+plate_rois\1490.jpg 1 117 212 404 79
+plate_rois\1492.jpg 1 139 215 385 83
+plate_rois\1493.jpg 1 162 204 366 72
+plate_rois\1496.jpg 1 130 207 369 75
+plate_rois\15.jpg 1 359 141 303 59
+plate_rois\150.jpg 1 144 141 203 43
+plate_rois\1500.jpg 1 133 125 155 31
+plate_rois\1505.jpg 1 147 91 122 28
+plate_rois\1506.jpg 1 177 188 311 68
+plate_rois\1507.jpg 1 128 88 188 38
+plate_rois\1508.jpg 1 151 117 203 42
+plate_rois\1509.jpg 1 158 155 295 67
+plate_rois\151.jpg 1 217 180 289 57
+plate_rois\1511.jpg 1 182 143 255 51
+plate_rois\1512.jpg 1 130 129 252 55
+plate_rois\1514.jpg 1 215 157 276 56
+plate_rois\1515.jpg 1 139 117 224 54
+plate_rois\1517.jpg 1 124 112 197 46
+plate_rois\1518.jpg 1 227 183 296 64
+plate_rois\152.jpg 1 201 142 123 25
+plate_rois\1521.jpg 1 117 89 167 42
+plate_rois\1522.jpg 1 246 188 319 66
+plate_rois\1524.jpg 1 109 87 147 34
+plate_rois\1525.jpg 1 224 197 342 72
+plate_rois\1527.jpg 1 104 77 141 31
+plate_rois\1528.jpg 1 220 203 365 74
+plate_rois\153 (2).jpg 1 124 70 121 25
+plate_rois\153.jpg 1 179 158 266 50
+plate_rois\1531.jpg 1 110 72 121 29
+plate_rois\1532.jpg 1 246 211 370 75
+plate_rois\1536.jpg 1 263 215 375 79
+plate_rois\1538.jpg 1 282 238 402 89
+plate_rois\1540.jpg 1 270 267 443 87
+plate_rois\1542.jpg 1 318 306 510 104
+plate_rois\1544.jpg 1 375 371 575 120
+plate_rois\1545.jpg 1 171 150 216 45
+plate_rois\1546.jpg 1 186 183 135 30
+plate_rois\1547.jpg 1 227 170 227 50
+plate_rois\155 (2).jpg 1 196 147 123 30
+plate_rois\155.jpg 1 176 160 242 46
+plate_rois\1550.jpg 1 169 146 192 40
+plate_rois\1551.jpg 1 149 124 166 33
+plate_rois\1552.jpg 1 140 114 159 36
+plate_rois\1555.jpg 1 132 109 143 32
+plate_rois\1559.jpg 1 115 96 135 30
+plate_rois\156.jpg 1 134 78 135 29
+plate_rois\1563.jpg 1 121 92 118 27
+plate_rois\1565.jpg 1 109 85 117 28
+plate_rois\1567.jpg 1 99 79 115 24
+plate_rois\157.jpg 1 143 154 222 44
+plate_rois\1573.jpg 1 99 72 93 22
+plate_rois\158.jpg 1 162 133 232 44
+plate_rois\159 (2).jpg 1 144 80 144 29
+plate_rois\159.jpg 1 92 112 123 29
+plate_rois\160.jpg 1 94 142 228 48
+plate_rois\1600.jpg 1 114 66 79 24
+plate_rois\1607.jpg 1 117 64 82 21
+plate_rois\161.jpg 1 162 112 214 43
+plate_rois\1610.jpg 1 117 66 84 24
+plate_rois\1611.jpg 1 156 98 242 63
+plate_rois\1615.jpg 1 134 88 199 39
+plate_rois\1618.jpg 1 118 71 86 22
+plate_rois\1619.jpg 1 122 67 165 35
+plate_rois\1621.jpg 1 121 75 86 24
+plate_rois\1622.jpg 1 101 58 142 29
+plate_rois\1626.jpg 1 111 54 125 31
+plate_rois\1627.jpg 1 177 119 212 47
+plate_rois\163.jpg 1 139 163 248 47
+plate_rois\1631.jpg 1 150 91 165 40
+plate_rois\1635.jpg 1 113 68 84 23
+plate_rois\1637.jpg 1 117 77 130 31
+plate_rois\164 (2).jpg 1 212 105 199 48
+plate_rois\164.jpg 1 169 122 205 41
+plate_rois\1644.jpg 1 109 61 104 29
+plate_rois\1646.jpg 1 97 60 89 24
+plate_rois\1647.jpg 1 133 78 93 21
+plate_rois\1648.jpg 1 80 57 87 24
+plate_rois\165.jpg 1 148 116 188 39
+plate_rois\166.jpg 1 158 173 248 50
+plate_rois\1675.jpg 1 119 74 90 24
+plate_rois\168.jpg 1 132 85 114 27
+plate_rois\169.jpg 1 119 72 93 24
+plate_rois\1717.jpg 1 124 75 94 26
+plate_rois\1721.jpg 1 117 77 92 24
+plate_rois\173.jpg 1 151 118 150 33
+plate_rois\1756.jpg 1 108 62 72 20
+plate_rois\176.jpg 1 131 79 109 27
+plate_rois\1772.jpg 1 108 65 75 18
+plate_rois\1779.jpg 1 229 204 193 41
+plate_rois\1782.jpg 1 226 193 173 34
+plate_rois\1786.jpg 1 197 167 158 30
+plate_rois\1788.jpg 1 187 149 142 31
+plate_rois\1795.jpg 1 291 306 476 118
+plate_rois\1796.jpg 1 256 241 374 74
+plate_rois\1797.jpg 1 212 176 302 66
+plate_rois\1799.jpg 1 115 81 144 35
+plate_rois\18.jpg 1 346 148 319 68
+plate_rois\1804.jpg 1 125 95 146 37
+plate_rois\1806.jpg 1 117 101 152 38
+plate_rois\1814.jpg 1 25 74 90 25
+plate_rois\1815.jpg 1 104 64 102 29
+plate_rois\1821.jpg 1 102 59 101 30
+plate_rois\1824.jpg 1 87 57 109 29
+plate_rois\1827.jpg 1 94 66 109 28
+plate_rois\1828.jpg 1 72 61 95 26
+plate_rois\183.jpg 1 196 94 165 41
+plate_rois\1831.jpg 1 101 65 114 31
+plate_rois\1833.jpg 1 114 70 120 34
+plate_rois\1835.jpg 1 119 70 130 41
+plate_rois\1836.jpg 1 98 76 108 27
+plate_rois\1837.jpg 1 119 78 137 32
+plate_rois\1838.jpg 1 241 140 220 44
+plate_rois\1842.jpg 1 235 137 208 40
+plate_rois\1843.jpg 1 238 149 196 37
+plate_rois\1846.jpg 1 223 138 192 40
+plate_rois\1847.jpg 1 216 123 183 35
+plate_rois\1850.jpg 1 214 124 180 35
+plate_rois\1851.jpg 1 200 126 182 35
+plate_rois\1862.jpg 1 113 80 109 26
+plate_rois\1867.jpg 1 98 77 119 28
+plate_rois\1871.jpg 1 107 77 112 26
+plate_rois\1878.jpg 1 125 81 120 30
+plate_rois\1884.jpg 1 124 94 127 29
+plate_rois\1888.jpg 1 156 99 131 32
+plate_rois\1892.jpg 1 144 101 136 34
+plate_rois\1895.jpg 1 201 130 139 30
+plate_rois\1917.jpg 1 146 92 136 31
+plate_rois\1923.jpg 1 114 88 137 31
+plate_rois\1925.jpg 1 151 94 139 33
+plate_rois\1929.jpg 1 168 99 137 33
+plate_rois\1934.jpg 1 141 99 144 33
+plate_rois\1942.jpg 1 135 109 154 36
+plate_rois\1946.jpg 1 153 115 166 39
+plate_rois\1954.jpg 1 168 132 183 43
+plate_rois\1958.jpg 1 191 145 201 46
+plate_rois\1960.jpg 1 194 128 212 50
+plate_rois\1966.jpg 1 149 117 179 36
+plate_rois\1967.jpg 1 196 175 242 58
+plate_rois\1970.jpg 1 224 167 235 56
+plate_rois\1973.jpg 1 149 182 232 48
+plate_rois\1975.jpg 1 153 156 241 59
+plate_rois\1978.jpg 1 157 195 263 56
+plate_rois\1981.jpg 1 174 217 289 62
+plate_rois\1986.jpg 1 296 267 339 81
+plate_rois\1990.jpg 1 179 102 156 39
+plate_rois\1991.jpg 1 156 191 249 51
+plate_rois\1992.jpg 1 225 313 388 80
+plate_rois\1997.jpg 1 205 335 423 85
+plate_rois\20.jpg 1 352 139 285 61
+plate_rois\2002.jpg 1 201 368 479 96
+plate_rois\2025.jpg 1 107 78 109 23
+plate_rois\2026.jpg 1 95 113 148 33
+plate_rois\2029.jpg 1 112 178 214 42
+plate_rois\203.jpg 1 65 287 469 94
+plate_rois\2033.jpg 1 190 251 328 67
+plate_rois\2045.jpg 1 111 75 151 31
+plate_rois\2049.jpg 1 172 118 249 53
+plate_rois\207.jpg 1 176 108 257 56
+plate_rois\2070.jpg 1 282 239 431 102
+plate_rois\2077.jpg 1 146 81 165 33
+plate_rois\2101.jpg 1 154 170 203 50
+plate_rois\2126.jpg 1 379 254 441 87
+plate_rois\2127.jpg 1 583 385 641 127
+plate_rois\213.jpg 1 55 435 627 124
+plate_rois\218.jpg 1 261 409 645 134
+plate_rois\219.jpg 1 387 367 580 124
+plate_rois\2192.jpg 1 116 435 552 97
+plate_rois\2194.jpg 1 190 431 547 116
+plate_rois\2195.jpg 1 166 435 530 116
+plate_rois\2197.jpg 1 208 397 473 102
+plate_rois\2198.jpg 1 250 337 411 92
+plate_rois\22.jpg 1 75 124 158 37
+plate_rois\2201.jpg 1 264 266 309 71
+plate_rois\2203.jpg 1 247 250 276 59
+plate_rois\2206.jpg 1 233 224 252 53
+plate_rois\2207.jpg 1 247 209 228 48
+plate_rois\2208.jpg 1 210 193 211 44
+plate_rois\2210.jpg 1 188 183 202 46
+plate_rois\2214.jpg 1 136 151 168 37
+plate_rois\2217.jpg 1 177 143 169 36
+plate_rois\2227.jpg 1 88 152 173 35
+plate_rois\2242.jpg 1 144 125 257 51
+plate_rois\2243.jpg 1 148 139 224 53
+plate_rois\2246.jpg 1 76 117 105 26
+plate_rois\2249.jpg 1 117 121 225 46
+plate_rois\2255.jpg 1 146 178 313 68
+plate_rois\2260.jpg 1 126 164 333 73
+plate_rois\2262.jpg 1 423 342 400 99
+plate_rois\2264.jpg 1 213 278 438 83
+plate_rois\2266.jpg 1 202 291 444 94
+plate_rois\2270.jpg 1 330 453 720 163
+plate_rois\2273.jpg 1 238 664 804 166
+plate_rois\2278.jpg 1 322 667 772 167
+plate_rois\2282.jpg 1 486 563 1004 207
+plate_rois\2294.jpg 1 394 593 515 105
+plate_rois\232.jpg 1 141 106 163 38
+plate_rois\2347.jpg 1 218 314 341 88
+plate_rois\2351.jpg 1 180 277 275 57
+plate_rois\2352.jpg 1 5 207 267 54
+plate_rois\2353.jpg 1 123 259 254 53
+plate_rois\2354.jpg 1 139 243 250 51
+plate_rois\2355.jpg 1 119 254 252 55
+plate_rois\2356.jpg 1 91 267 255 56
+plate_rois\2357.jpg 1 126 259 268 60
+plate_rois\2358.jpg 1 134 278 281 60
+plate_rois\236.jpg 1 170 139 207 40
+plate_rois\2360.jpg 1 179 282 291 64
+plate_rois\2362.jpg 1 186 316 312 61
+plate_rois\2367.jpg 1 199 345 367 92
+plate_rois\238.jpg 1 190 167 254 53
+plate_rois\2428.jpg 1 281 14 244 50
+plate_rois\2434.jpg 1 213 231 242 49
+plate_rois\2436.jpg 1 3 32 236 46
+plate_rois\2437.jpg 1 133 11 136 28
+plate_rois\244.jpg 1 339 277 399 84
+plate_rois\2441.jpg 1 232 115 135 29
+plate_rois\2452.jpg 1 140 52 117 24
+plate_rois\2456.jpg 1 41 18 257 54
+plate_rois\2458.jpg 1 110 60 139 33
+plate_rois\2459.jpg 1 319 207 172 35
+plate_rois\2460.jpg 1 622 733 497 95
+plate_rois\2463.jpg 1 456 439 294 55
+plate_rois\2465.jpg 1 326 319 209 44
+plate_rois\2467.jpg 1 133 262 391 78
+plate_rois\247.jpg 1 4 264 370 79
+plate_rois\2471.jpg 1 181 175 310 63
+plate_rois\2474.jpg 1 169 168 296 63
+plate_rois\2477.jpg 1 164 170 293 65
+plate_rois\2479.jpg 1 163 173 287 63
+plate_rois\2482.jpg 1 160 173 299 66
+plate_rois\2485.jpg 1 162 167 295 66
+plate_rois\2487.jpg 1 171 175 294 63
+plate_rois\2490.jpg 1 172 170 295 66
+plate_rois\2493.jpg 1 182 166 294 68
+plate_rois\25.jpg 1 335 143 266 62
+plate_rois\254.jpg 1 17 321 420 84
+plate_rois\263.jpg 1 187 95 170 39
+plate_rois\281.jpg 1 498 345 148 33
+plate_rois\288.jpg 1 70 88 148 32
+plate_rois\29.jpg 1 315 129 262 59
+plate_rois\292.jpg 1 39 93 153 33
+plate_rois\3.jpg 1 244 117 197 39
+plate_rois\30.jpg 1 120 87 134 30
+plate_rois\322.jpg 1 107 304 389 85
+plate_rois\332.jpg 1 388 649 1043 219
+plate_rois\337.jpg 1 278 467 758 152
+plate_rois\34.jpg 1 285 115 244 54
+plate_rois\341.jpg 1 324 417 648 139
+plate_rois\342.jpg 1 116 132 147 36
+plate_rois\345.jpg 1 314 385 596 123
+plate_rois\347.jpg 0
+plate_rois\348.jpg 1 341 676 1051 215
+plate_rois\349.jpg 1 379 457 719 152
+plate_rois\351.jpg 1 108 101 150 28
+plate_rois\352 (2).jpg 1 97 160 191 36
+plate_rois\352.jpg 1 115 102 147 31
+plate_rois\354.jpg 1 98 159 203 41
+plate_rois\355.jpg 1 112 93 147 32
+plate_rois\359.jpg 1 157 196 223 43
+plate_rois\360.jpg 1 118 96 149 34
+plate_rois\361.jpg 1 103 99 133 30
+plate_rois\362.jpg 1 121 99 144 29
+plate_rois\363.jpg 1 157 123 171 38
+plate_rois\364.jpg 1 83 192 248 48
+plate_rois\366.jpg 1 108 85 128 26
+plate_rois\368.jpg 1 125 245 289 60
+plate_rois\370.jpg 1 270 178 240 52
+plate_rois\375.jpg 1 164 311 376 77
+plate_rois\38.jpg 1 278 119 237 52
+plate_rois\383 (2).jpg 1 379 405 461 94
+plate_rois\383.jpg 1 93 64 102 20
+plate_rois\385.jpg 1 92 54 91 22
+plate_rois\389.jpg 1 82 58 78 19
+plate_rois\390.jpg 1 167 485 620 130
+plate_rois\398.jpg 1 168 170 220 45
+plate_rois\399.jpg 1 136 511 587 117
+plate_rois\40.jpg 1 125 84 121 32
+plate_rois\400.jpg 1 68 59 96 25
+plate_rois\402.jpg 1 218 190 268 58
+plate_rois\403.jpg 1 288 240 333 72
+plate_rois\409.jpg 1 305 285 386 83
+plate_rois\416 (2).jpg 1 72 250 339 68
+plate_rois\416.jpg 1 141 98 200 46
+plate_rois\420.jpg 1 125 275 365 74
+plate_rois\421 (2).jpg 1 339 131 207 42
+plate_rois\421.jpg 1 69 82 239 55
+plate_rois\422 (2).jpg 1 114 325 390 82
+plate_rois\422.jpg 1 489 431 237 55
+plate_rois\43.jpg 1 89 183 207 43
+plate_rois\433.jpg 1 237 375 439 88
+plate_rois\436.jpg 1 273 453 533 121
+plate_rois\44.jpg 1 320 142 270 57
+plate_rois\442.jpg 1 3 128 240 65
+plate_rois\443 (2).jpg 1 195 178 247 48
+plate_rois\443.jpg 1 158 205 275 58
+plate_rois\447.jpg 1 40 117 231 48
+plate_rois\448 (2).jpg 1 231 222 260 48
+plate_rois\448.jpg 1 92 73 124 28
+plate_rois\449.jpg 1 111 74 158 30
+plate_rois\453.jpg 1 51 109 200 41
+plate_rois\454.jpg 1 189 250 280 54
+plate_rois\455.jpg 1 149 93 189 40
+plate_rois\458.jpg 1 190 261 302 60
+plate_rois\459.jpg 1 166 114 219 49
+plate_rois\462.jpg 1 59 95 172 38
+plate_rois\464.jpg 1 98 230 299 58
+plate_rois\465.jpg 1 51 89 159 31
+plate_rois\469.jpg 1 142 201 270 51
+plate_rois\47.jpg 1 112 83 164 37
+plate_rois\473 (2).jpg 1 56 77 135 31
+plate_rois\473.jpg 0
+plate_rois\474.jpg 1 100 75 93 25
+plate_rois\475.jpg 1 165 184 238 47
+plate_rois\477 (2).jpg 1 68 64 116 28
+plate_rois\477.jpg 1 137 94 142 39
+plate_rois\478.jpg 1 124 108 164 40
+plate_rois\480.jpg 1 163 153 224 47
+plate_rois\481.jpg 1 128 115 213 47
+plate_rois\483.jpg 1 154 197 346 76
+plate_rois\485 (2).jpg 1 324 620 684 144
+plate_rois\485.jpg 1 299 317 484 100
+plate_rois\489.jpg 1 206 505 560 121
+plate_rois\49.jpg 1 93 369 529 116
+plate_rois\492.jpg 1 294 207 398 86
+plate_rois\496.jpg 1 148 116 153 31
+plate_rois\497.jpg 1 304 230 418 83
+plate_rois\498.jpg 1 88 73 121 31
+plate_rois\499.jpg 1 122 101 155 35
+plate_rois\5.jpg 1 597 287 558 112
+plate_rois\500.jpg 1 138 125 205 46
+plate_rois\501 (2).jpg 1 354 243 453 89
+plate_rois\501.jpg 1 138 401 687 135
+plate_rois\505.jpg 1 148 110 136 30
+plate_rois\507.jpg 1 348 577 665 139
+plate_rois\509.jpg 1 322 460 535 111
+plate_rois\513.jpg 1 306 414 471 100
+plate_rois\516.jpg 1 354 377 432 92
+plate_rois\518.jpg 1 331 349 396 83
+plate_rois\52.jpg 1 538 360 608 134
+plate_rois\520.jpg 1 286 322 365 78
+plate_rois\522 (2).jpg 1 94 65 107 27
+plate_rois\522.jpg 1 278 302 340 69
+plate_rois\525.jpg 1 175 257 289 64
+plate_rois\529 (2).jpg 1 129 88 134 34
+plate_rois\529.jpg 1 258 247 277 58
+plate_rois\531 (2).jpg 1 129 101 169 36
+plate_rois\531.jpg 1 240 220 271 61
+plate_rois\533 (2).jpg 1 151 123 211 44
+plate_rois\533.jpg 1 60 87 140 34
+plate_rois\534.jpg 1 240 211 267 56
+plate_rois\537 (2).jpg 1 278 189 289 64
+plate_rois\537.jpg 1 241 210 259 55
+plate_rois\541.jpg 1 100 481 672 158
+plate_rois\542.jpg 1 116 84 145 42
+plate_rois\543.jpg 1 206 217 259 57
+plate_rois\544.jpg 1 175 149 199 39
+plate_rois\546 (2).jpg 1 14 155 231 44
+plate_rois\546.jpg 1 235 208 263 54
+plate_rois\547.jpg 1 179 164 227 47
+plate_rois\549.jpg 1 288 233 280 63
+plate_rois\551.jpg 1 99 151 224 43
+plate_rois\552.jpg 1 182 191 261 52
+plate_rois\554.jpg 1 252 242 298 63
+plate_rois\555.jpg 1 171 257 345 68
+plate_rois\556.jpg 1 200 150 229 53
+plate_rois\56.jpg 1 240 373 599 131
+plate_rois\560.jpg 1 116 338 443 88
+plate_rois\561 (2).jpg 1 142 156 245 48
+plate_rois\561.jpg 1 114 58 103 26
+plate_rois\562.jpg 1 84 72 110 28
+plate_rois\563.jpg 1 236 272 331 75
+plate_rois\564.jpg 1 230 189 281 53
+plate_rois\565 (2).jpg 1 107 196 311 61
+plate_rois\565.jpg 1 314 283 349 70
+plate_rois\567 (2).jpg 1 120 97 128 29
+plate_rois\567.jpg 1 132 71 130 29
+plate_rois\568.jpg 1 355 304 368 81
+plate_rois\570.jpg 1 155 88 160 40
+plate_rois\572 (2).jpg 1 142 109 146 36
+plate_rois\572.jpg 1 320 321 401 85
+plate_rois\573.jpg 1 192 102 216 48
+plate_rois\576.jpg 1 326 295 425 88
+plate_rois\578.jpg 1 348 162 305 65
+plate_rois\579.jpg 1 384 330 425 92
+plate_rois\580.jpg 1 106 83 143 41
+plate_rois\584 (2).jpg 1 119 202 322 63
+plate_rois\584.jpg 1 219 112 217 52
+plate_rois\585.jpg 1 3 353 415 82
+plate_rois\589.jpg 1 136 73 150 42
+plate_rois\590.jpg 1 44 44 82 26
+plate_rois\591.jpg 1 202 148 247 45
+plate_rois\592 (2).jpg 1 139 175 271 58
+plate_rois\592.jpg 1 116 78 152 38
+plate_rois\595 (2).jpg 1 151 171 259 56
+plate_rois\595.jpg 1 174 107 290 53
+plate_rois\596.jpg 1 124 85 152 35
+plate_rois\598.jpg 1 152 166 260 51
+plate_rois\600.jpg 1 119 86 157 35
+plate_rois\602.jpg 1 159 176 259 50
+plate_rois\605.jpg 1 134 104 186 39
+plate_rois\611.jpg 1 120 111 200 45
+plate_rois\614.jpg 1 140 167 273 54
+plate_rois\615.jpg 1 142 124 221 47
+plate_rois\616.jpg 1 257 300 508 104
+plate_rois\619.jpg 1 132 178 277 54
+plate_rois\62.jpg 1 322 290 459 97
+plate_rois\621.jpg 1 187 219 299 64
+plate_rois\624.jpg 1 118 174 277 57
+plate_rois\626.jpg 1 541 334 471 100
+plate_rois\629.jpg 1 88 177 286 59
+plate_rois\630.jpg 1 290 238 445 98
+plate_rois\636.jpg 1 99 178 286 57
+plate_rois\639.jpg 1 41 48 90 21
+plate_rois\64 (2).jpg 1 343 219 367 77
+plate_rois\64.jpg 1 152 107 90 24
+plate_rois\644.jpg 1 136 183 282 66
+plate_rois\656.jpg 1 110 176 285 58
+plate_rois\657.jpg 1 173 174 181 42
+plate_rois\66 (2).jpg 1 303 178 310 63
+plate_rois\66.jpg 1 21 130 208 45
+plate_rois\664.jpg 1 117 191 297 60
+plate_rois\667.jpg 1 66 87 92 24
+plate_rois\669.jpg 1 152 126 100 24
+plate_rois\673.jpg 1 145 181 303 57
+plate_rois\679.jpg 1 167 205 311 62
+plate_rois\682 (2).jpg 1 99 119 125 28
+plate_rois\682.jpg 1 299 199 169 35
+plate_rois\683.jpg 1 199 225 338 64
+plate_rois\686.jpg 1 275 195 174 35
+plate_rois\687.jpg 1 41 69 127 27
+plate_rois\688.jpg 1 56 144 148 37
+plate_rois\689.jpg 1 425 236 207 43
+plate_rois\690 (2).jpg 1 198 249 359 66
+plate_rois\690.jpg 1 421 254 231 42
+plate_rois\691 (2).jpg 1 121 76 145 31
+plate_rois\691.jpg 1 451 287 233 55
+plate_rois\692 (2).jpg 1 158 244 375 69
+plate_rois\692.jpg 1 471 307 276 57
+plate_rois\693.jpg 1 490 388 324 62
+plate_rois\694.jpg 1 166 90 170 37
+plate_rois\697.jpg 1 164 107 188 43
+plate_rois\698.jpg 1 110 241 363 67
+plate_rois\7.jpg 1 323 106 225 51
+plate_rois\702.jpg 1 194 125 231 51
+plate_rois\705.jpg 1 71 63 112 29
+plate_rois\708.jpg 1 213 130 252 53
+plate_rois\71.jpg 1 291 170 299 67
+plate_rois\714.jpg 1 367 466 898 177
+plate_rois\715 (2).jpg 1 139 145 268 55
+plate_rois\715.jpg 1 192 174 327 69
+plate_rois\716.jpg 1 190 171 310 57
+plate_rois\717.jpg 1 178 149 292 54
+plate_rois\72.jpg 1 112 89 70 22
+plate_rois\720 (2).jpg 1 216 194 211 48
+plate_rois\720.jpg 1 186 148 280 57
+plate_rois\721.jpg 1 163 171 304 61
+plate_rois\722 (2).jpg 1 61 151 239 47
+plate_rois\722.jpg 1 199 155 262 49
+plate_rois\723.jpg 1 82 61 93 23
+plate_rois\725 (2).jpg 1 15 96 387 75
+plate_rois\725.jpg 1 208 151 256 53
+plate_rois\726.jpg 1 93 150 232 46
+plate_rois\727.jpg 1 193 147 267 50
+plate_rois\728.jpg 1 254 292 201 39
+plate_rois\729.jpg 1 135 101 126 33
+plate_rois\73 (2).jpg 1 305 167 290 64
+plate_rois\73.jpg 1 108 82 66 20
+plate_rois\731 (2).jpg 1 2 135 214 58
+plate_rois\731.jpg 1 193 140 267 56
+plate_rois\732.jpg 1 198 149 269 54
+plate_rois\740.jpg 1 184 140 172 35
+plate_rois\742.jpg 1 145 108 228 44
+plate_rois\743.jpg 1 464 753 580 130
+plate_rois\744.jpg 1 136 104 202 42
+plate_rois\745.jpg 1 388 680 521 100
+plate_rois\746.jpg 1 129 87 186 44
+plate_rois\747 (2).jpg 1 6 116 205 55
+plate_rois\747.jpg 1 406 636 494 105
+plate_rois\748 (2).jpg 1 213 171 201 43
+plate_rois\748.jpg 1 112 94 171 33
+plate_rois\749.jpg 1 425 628 477 103
+plate_rois\750.jpg 1 111 77 157 37
+plate_rois\751 (2).jpg 1 63 60 102 24
+plate_rois\751.jpg 1 440 583 465 96
+plate_rois\752 (2).jpg 1 267 209 255 52
+plate_rois\752.jpg 1 110 75 148 37
+plate_rois\753 (2).jpg 1 101 144 233 47
+plate_rois\753.jpg 1 408 591 449 101
+plate_rois\755.jpg 1 103 76 135 31
+plate_rois\756 (2).jpg 1 141 147 229 46
+plate_rois\756.jpg 1 388 554 430 91
+plate_rois\757 (2).jpg 1 287 261 327 65
+plate_rois\757.jpg 1 401 530 402 86
+plate_rois\758.jpg 1 102 70 131 30
+plate_rois\759.jpg 1 96 68 130 29
+plate_rois\76.jpg 1 309 173 303 62
+plate_rois\760.jpg 1 386 483 361 75
+plate_rois\762.jpg 1 350 440 329 68
+plate_rois\763 (2).jpg 1 214 155 220 50
+plate_rois\763.jpg 1 97 65 108 29
+plate_rois\764.jpg 1 340 408 297 64
+plate_rois\766 (2).jpg 1 158 193 186 47
+plate_rois\766.jpg 1 307 354 271 59
+plate_rois\767 (2).jpg 1 192 148 213 48
+plate_rois\767.jpg 1 293 363 262 63
+plate_rois\769.jpg 1 83 57 94 26
+plate_rois\77.jpg 1 117 78 59 20
+plate_rois\770 (2).jpg 1 95 61 112 28
+plate_rois\770.jpg 1 278 330 246 52
+plate_rois\771.jpg 1 250 320 246 54
+plate_rois\773.jpg 1 258 318 236 57
+plate_rois\774.jpg 1 141 134 204 47
+plate_rois\775.jpg 1 151 138 201 41
+plate_rois\777 (2).jpg 1 41 68 119 30
+plate_rois\777.jpg 1 261 300 229 48
+plate_rois\780.jpg 1 228 276 217 49
+plate_rois\781.jpg 1 127 137 196 38
+plate_rois\782.jpg 1 42 66 124 27
+plate_rois\783.jpg 1 240 281 210 46
+plate_rois\784.jpg 1 22 65 106 24
+plate_rois\787.jpg 1 226 272 205 42
+plate_rois\788.jpg 1 90 51 125 29
+plate_rois\789.jpg 1 93 70 127 28
+plate_rois\79.jpg 1 206 154 297 64
+plate_rois\791.jpg 1 81 58 136 32
+plate_rois\792.jpg 1 282 292 212 48
+plate_rois\793.jpg 1 99 85 134 31
+plate_rois\794.jpg 1 260 326 242 50
+plate_rois\795.jpg 1 298 352 265 58
+plate_rois\797.jpg 1 142 86 158 35
+plate_rois\798.jpg 1 311 390 298 66
+plate_rois\799.jpg 1 307 411 313 61
+plate_rois\80.jpg 1 63 39 76 20
+plate_rois\800 (2).jpg 1 92 75 125 28
+plate_rois\800.jpg 1 89 49 94 23
+plate_rois\801.jpg 1 102 101 151 36
+plate_rois\802.jpg 1 208 157 215 43
+plate_rois\803.jpg 1 319 436 327 72
+plate_rois\805.jpg 1 231 178 248 52
+plate_rois\806.jpg 1 328 443 346 72
+plate_rois\807.jpg 1 334 473 374 77
+plate_rois\808 (2).jpg 1 138 165 276 58
+plate_rois\808.jpg 1 391 504 382 85
+plate_rois\81.jpg 1 206 162 273 60
+plate_rois\811.jpg 1 369 502 392 93
+plate_rois\812.jpg 1 415 548 419 97
+plate_rois\813.jpg 1 115 160 280 55
+plate_rois\814.jpg 1 448 635 468 92
+plate_rois\815.jpg 1 107 181 281 58
+plate_rois\816.jpg 1 505 712 540 117
+plate_rois\818 (2).jpg 1 244 233 292 60
+plate_rois\818.jpg 1 609 773 572 117
+plate_rois\819 (2).jpg 1 217 228 311 62
+plate_rois\819.jpg 1 525 710 527 117
+plate_rois\82 (2).jpg 1 265 139 251 52
+plate_rois\82.jpg 1 106 70 57 19
+plate_rois\820.jpg 1 77 192 334 69
+plate_rois\821.jpg 1 516 619 463 101
+plate_rois\823 (2).jpg 1 248 285 381 80
+plate_rois\823.jpg 1 442 531 396 83
+plate_rois\827.jpg 1 419 464 339 73
+plate_rois\83.jpg 1 255 131 232 52
+plate_rois\830 (2).jpg 1 124 111 185 41
+plate_rois\830.jpg 1 360 387 305 60
+plate_rois\831.jpg 1 113 137 196 43
+plate_rois\833.jpg 1 294 313 228 52
+plate_rois\835.jpg 1 74 99 182 40
+plate_rois\836.jpg 1 36 138 228 44
+plate_rois\837.jpg 1 32 105 191 40
+plate_rois\839 (2).jpg 1 107 105 190 41
+plate_rois\839.jpg 1 214 283 222 51
+plate_rois\84 (2).jpg 1 221 123 208 41
+plate_rois\84.jpg 1 114 80 130 29
+plate_rois\840 (2).jpg 1 132 112 197 41
+plate_rois\840.jpg 1 116 134 201 42
+plate_rois\842 (2).jpg 1 324 298 655 125
+plate_rois\842.jpg 1 256 297 216 48
+plate_rois\843.jpg 1 131 98 122 27
+plate_rois\844.jpg 1 256 319 240 55
+plate_rois\845 (2).jpg 1 132 115 185 40
+plate_rois\845.jpg 1 373 307 389 75
+plate_rois\848 (2).jpg 1 49 102 193 42
+plate_rois\848.jpg 1 371 267 339 64
+plate_rois\849.jpg 1 95 162 207 41
+plate_rois\85.jpg 1 56 61 113 23
+plate_rois\851 (2).jpg 1 139 121 194 39
+plate_rois\851.jpg 1 317 236 297 56
+plate_rois\852 (2).jpg 1 101 185 234 46
+plate_rois\852.jpg 1 294 225 280 51
+plate_rois\853.jpg 1 140 117 198 43
+plate_rois\854 (2).jpg 1 145 215 277 59
+plate_rois\854.jpg 1 263 211 269 53
+plate_rois\855.jpg 1 143 118 212 48
+plate_rois\856.jpg 1 184 284 352 71
+plate_rois\857.jpg 1 243 195 250 52
+plate_rois\858.jpg 1 266 375 489 103
+plate_rois\859 (2).jpg 1 136 131 226 48
+plate_rois\859.jpg 1 202 172 235 52
+plate_rois\86 (2).jpg 1 214 104 192 40
+plate_rois\86.jpg 1 104 73 52 16
+plate_rois\860.jpg 1 175 169 179 46
+plate_rois\861.jpg 1 222 178 222 43
+plate_rois\864.jpg 1 198 196 236 51
+plate_rois\865.jpg 1 202 152 187 40
+plate_rois\866.jpg 1 76 135 242 48
+plate_rois\869.jpg 1 178 129 167 39
+plate_rois\874.jpg 1 46 40 92 23
+plate_rois\875.jpg 1 136 113 143 36
+plate_rois\88.jpg 1 138 75 180 45
+plate_rois\896.jpg 1 177 92 181 44
+plate_rois\899.jpg 1 51 110 102 25
+plate_rois\90.jpg 1 147 102 181 36
+plate_rois\901.jpg 1 181 87 204 44
+plate_rois\904.jpg 1 210 104 229 50
+plate_rois\907.jpg 1 216 121 249 57
+plate_rois\912.jpg 1 187 121 259 57
+plate_rois\913.jpg 1 199 123 264 56
+plate_rois\915.jpg 1 202 123 260 59
+plate_rois\918.jpg 1 201 118 264 58
+plate_rois\92.jpg 1 119 69 50 16
+plate_rois\920.jpg 1 216 123 248 56
+plate_rois\923.jpg 1 187 115 248 55
+plate_rois\925.jpg 1 182 109 236 53
+plate_rois\927.jpg 1 189 117 228 49
+plate_rois\929.jpg 1 186 124 215 47
+plate_rois\93.jpg 1 73 73 158 31
+plate_rois\930.jpg 1 180 108 223 48
+plate_rois\931.jpg 1 174 111 211 47
+plate_rois\933.jpg 1 169 108 208 44
+plate_rois\935.jpg 1 168 105 210 41
+plate_rois\937.jpg 1 158 108 214 44
+plate_rois\939.jpg 1 163 98 239 50
+plate_rois\941.jpg 1 177 117 235 48
+plate_rois\943.jpg 1 195 126 236 52
+plate_rois\944.jpg 1 183 124 239 49
+plate_rois\947.jpg 1 207 147 250 58
+plate_rois\950.jpg 1 222 154 263 58
+plate_rois\952.jpg 1 286 165 289 63
+plate_rois\955.jpg 1 228 143 318 69
+plate_rois\96.jpg 1 172 90 164 37
+plate_rois\965.jpg 1 66 81 149 39
+plate_rois\97.jpg 1 103 59 103 24
+plate_rois\970.jpg 1 120 90 152 32
+plate_rois\971.jpg 1 517 586 325 67
+plate_rois\98.jpg 1 86 70 166 36
+plate_rois\981.jpg 1 366 357 217 49
+plate_rois\995.jpg 1 237 242 139 33
+plate_rois\996.jpg 1 122 100 163 36
